@@ -1,4 +1,4 @@
-import { detect_collision } from "/collision_detection.js";
+import { detect_collision } from "./collision_detection.js";
 
 export default class Ball {
     constructor(game) {
