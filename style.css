@@ -1,0 +1,10 @@
+body {
+    background: rgb(196, 181, 181);
+}
+
+#game-screen {
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(204, 214, 223);
+}
